@@ -1,0 +1,1 @@
+area(Width, Height, Area):- Area is 0.5*Width * Height.
