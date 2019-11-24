@@ -1,0 +1,1 @@
+# Artificial-Intelligence-AI---Basic-Code-using-Prolog
